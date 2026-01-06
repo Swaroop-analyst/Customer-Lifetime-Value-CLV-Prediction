@@ -49,7 +49,8 @@ Metric	Value
 MAE	0.249
 R²	0.693
 
-<img width="310" height="73" alt="image" src="https://github.com/user-attachments/assets/953a72e4-934f-46e2-a427-ba3debf9c7ff" />
+<img width="726" height="136" alt="image" src="https://github.com/user-attachments/assets/511edf05-3a7d-4869-9e5f-23b82898496f" />
+
 
 
 This indicates that the model explains approximately 69% of the variance in future customer revenue, which is considered strong performance for Customer Lifetime Value modeling.
