@@ -44,9 +44,11 @@ Customers segmented into Bronze, Silver, Gold, Platinum based on predicted CLV.
 ### Quantitative Performance
 
 The final CLV model achieved strong predictive performance:
+
 Metric	Value
 MAE	0.249
 R²	0.693
+
 <img width="310" height="73" alt="image" src="https://github.com/user-attachments/assets/953a72e4-934f-46e2-a427-ba3debf9c7ff" />
 
 
